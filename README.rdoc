@@ -1,0 +1,17 @@
+== README
+
+To run:
+rails s
+
+=== TODO
+==== Frontend
+- main page (requires design)
+- quizzing screens (requires design)
+- admin for teachers
+
+==== Backend
+- seeds.rb
+- Vocabulary (fix UTF-8- try to create Chinese characters)
+- Validations
+- Lists
+- Rspec tests
